@@ -2,6 +2,8 @@
 
 This repository contains the implementation of the Kernel Perceptron algorithm for digit classification using the MNIST dataset. The project explores binary and multiclass classification tasks, evaluates model performance, and analyzes the effects of hyperparameter tuning on prediction accuracy.
 
+![Image](images/digits.png)
+
 ## Project Structure
 
 - **`MatteoCiarrocchi_MLProject_Analysis.ipynb`**: The Jupyter notebook containing the implementation of the Kernel Perceptron algorithm and analysis.
